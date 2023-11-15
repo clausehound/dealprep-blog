@@ -1,4 +1,4 @@
-*Our Problem*
+***Our Problem***
 
 Comparing documents and document versions is a highly beneficial review activity for lawyers, but one that, over a legal career, incurs many tedious, laborious hours. It can require legal teams to meticulously scour through hundreds of individual files of source/target and redline documents. Even with our tool DealPrep, document comparison is a massive part of our workflow when conducting deal document review for our clients. We've felt the pains of differences in formatting, file type conversions, naming conventions, etc. We also realized how much time our team spends switching between documents and retrieving documents for comparison purposes. Eventually, we decided to come up with a better solution to the traditional redline comparison tools that we could integrate into our DealPrep platform.
 
@@ -16,9 +16,10 @@ In this article, we'll outline the steps we took to create this solution, and ho
 
 DealPrep's Compare tool is used by our clerks to quickly compare documents via redline. With easy access to other documents and reference materials, and the ability to hide unedited clauses/sections when comparing documents, the comparison tool speeds up our clerks' deal document workflow by 33%.
 
-![](RackMultipart20231115-1-5e0jb5_html_a216c60e697106a3.png)
+![DPComparisonSC](https://github.com/clausehound/dealprep-blog/assets/58573689/261c79c4-445f-484b-bed7-d98831d45ce7)
 
-Our Tech Challenges
+
+***Our Tech Challenges***
 
 In order to develop these high quality tools, our software development team worked closely with the clerks to optimize their workflow each step of the way. With DealPrep's power came extra processing requirements, where we had to avoid a clunky-feeling interface while it was calculating large sets of document comparisons. More processor-intensive code was moved out of the main thread, into a separate background thread using a web worker. This allowed big operations to happen without our end-users feeling like the interface was freezing.
 
@@ -28,11 +29,12 @@ The final hurdle we faced was with our most computationally expensive code: the 
 
 Legal documents aren't stored and managed the same as flat text, as what we're diffing against isn't just raw text, but identifying changes inside of specific types of clauses. We tag documents by clause concept when ingesting them, which lets us compare multiple documents around the same clause category. This is a key value of our platform, so we needed to ensure that those tags are preserved when interacting with them in the comparison interface. This meant most of the diffing algorithms needed to be written from the ground-up. To do so, we implemented logic into our algorithm that created a list of all the clauses in one contract, and all the clauses in a second contract. Let's call them "Contract A" and "Contract B". In order to find out if the text is a match, normally you would just compare one section from "Contract A" with one section from "Contract B" and if they don't match then you move on.
 
-![](RackMultipart20231115-1-5e0jb5_html_9d8f209998a9c72b.png)
+![ArticleIllustrationV2](https://github.com/clausehound/dealprep-blog/assets/58573689/9723ec91-7857-4266-9ccf-215885082f78)
+
 
 However, given deal documents are constantly changing, and there's a lot of nuances to be captured, our tech needed to be able to find matches based not only on matching text but matching legal concepts. This is where CobaltAI succeeds as a company: the legal side is working every day with the developers, iterating and understanding the problem we're solving together. The schema we've developed is based on how actual lawyers and law clerks approach contract review. We capture not only those tags, but even the discussion behind them, capturing how the decision to include that clause language was made in every contract it was made in.
 
-The Tool's Value
+***The Tool's Value***
 
 This new algorithm, combined with our refactoring of the data storage and the transition to WebAssembly programming language, have many new benefits, like running redlines against an entire knowledge library, which can be up to hundreds of documents, with only a few clicks.
 
@@ -40,7 +42,7 @@ Another major benefit to mention is that unlike traditional word processing comp
 
 One interesting benefit of hosting the tool in our existing interface, instead of creating a MS Word add-on or Google Docs add-on, is that our team never needs to change tabs, windows or use any other platform. With all of our precedents and reference materials in one place and the ability to run redlines on any and all of those documents in one view, our team is no longer overwhelmed with organization of files and can now just focus on the review task at hand.
 
-[INSERT VIDEO HERE]
+
 
 As an example, we recently used the comparison tool in a project where we had to compare incoming contract documents with a playbook we created for a client. Our interface scanned all the incoming documents, and our comparison tool allowed us to instantly see any new or outlying language in the incoming documents, so we could make edits and alert our client.
 
