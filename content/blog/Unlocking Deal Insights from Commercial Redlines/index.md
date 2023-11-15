@@ -43,7 +43,7 @@ Another major benefit to mention is that unlike traditional word processing comp
 One interesting benefit of hosting the tool in our existing interface, instead of creating a MS Word add-on or Google Docs add-on, is that our team never needs to change tabs, windows or use any other platform. With all of our precedents and reference materials in one place and the ability to run redlines on any and all of those documents in one view, our team is no longer overwhelmed with organization of files and can now just focus on the review task at hand.
 
 
-https://github.com/clausehound/dealprep-blog/assets/58573689/f47d1cff-1e95-4a5f-aad0-bef96eefb3cc
+https://github.com/clausehound/dealprep-blog/assets/58573689/200a5cd1-c42b-41b3-9690-b57d99d72d23
 
 
 As an example, we recently used the comparison tool in a project where we had to compare incoming contract documents with a playbook we created for a client. Our interface scanned all the incoming documents, and our comparison tool allowed us to instantly see any new or outlying language in the incoming documents, so we could make edits and alert our client.
