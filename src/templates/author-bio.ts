@@ -24,7 +24,7 @@ const AuthorBioTemplate: FC<Props> = ({ data, location }) => {
       title: siteTitle,
     },
     h(SEO, {
-      title: `${author.first} ${author.last} Bio, Clausehound`,
+      title: `${author.first} ${author.last} Bio, DealPrep`,
       description: author.bio,
     }),
     h(Author, author),

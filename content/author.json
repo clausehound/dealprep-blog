@@ -1,0 +1,219 @@
+[
+  {
+    "id": "sahil@clausehound.com",
+    "first": "Sahil",
+    "last": "Kanaya",
+    "bio": "As Lead Content Analyst at Clausehound, Sahil puts his passion for research and writing, and his Law and Business major to good use developing easy to understand blog content and other eLearning materials for entrepreneurs, law students, and business students alike.",
+    "image": "profiles/sahil.jpg"
+  },
+  {
+    "id": "info@clausehound.com",
+    "first": "Clausehound"
+  },
+  {
+    "id": "AssafWeisz@clausehound.com",
+    "first": "Assaf",
+    "last": "Weisz"
+  },
+  {
+    "id": "IlanaBenAri@clausehound.com",
+    "first": "Ilana",
+    "last": "ben Ari"
+  },
+  {
+    "id": "NicoleVerkindt@clausehound.com",
+    "first": "Nicole",
+    "last": "Verkindt"
+  },
+  {
+    "id": "RyanGrantLittle@clausehoud.com",
+    "first": "Ryan",
+    "last": "Grant-Little"
+  },
+  {
+    "id": "SheetalJaitly@clausehound.com",
+    "first": "Sheeta",
+    "last": "Jaitly"
+  },
+  {
+    "id": "Karina@clausehound.com",
+    "first": "Karina",
+    "last": "Frappier-Brinton" 
+  },
+  {
+    "id": "Thomas@clausehound.com",
+    "first": "Thomas",
+    "last": "Southmayd" 
+  },
+  {
+    "id": "aidan@clausehound.com",
+    "first": "Aidan"
+  },
+  {
+    "id": "alina@clausehound.com",
+    "first": "Alina"
+  },
+  {
+    "id": "alva+AlkarimNasser@clausehound.com",
+    "first": "Alkarim",
+    "last": "Nasser"
+  },
+  {
+    "id": "alva+ChrisKay@clausehound.com",
+    "first": "Chris",
+    "last": "Kay"
+  },
+  {
+    "id": "alva+ChrisSnoyer@clausehound.com",
+    "first": "Chris",
+    "last": "Snoyer"
+  },
+  {
+    "id": "alva+DominicBortolussi@clausehound.com",
+    "first": "Dominic",
+    "last": "Bortolussi"
+  },
+  {
+    "id": "alva+EricJanssen@clausehound.com",
+    "first": "Eric",
+    "last": "Janssen"
+  },
+  {
+    "id": "alva+LisaWinning@clausehound.com",
+    "first": "Lisa",
+    "last": "Winning"
+  },
+  {
+    "id": "alva+NathanLev@clausehound.com",
+    "first": "Nathan",
+    "last": "Lev"
+  },
+  {
+    "id": "alva+NavidNathoo@clausehound.com",
+    "first": "Navid",
+    "last": "Nathoo"
+  },
+  {
+    "id": "alva@clausehound.com",
+    "first": "Alva",
+    "last": "Ching"
+  },
+  {
+    "id": "aunterman@cobaltcounsel.com",
+    "first": ""
+  },
+  {
+    "id": "cmcivor@cobaltcounsel.com",
+    "first": "Chris",
+    "last": "McIvor"
+  },
+  {
+    "id": "frahman@cobaltcounsel.com",
+    "first": ""
+  },
+  {
+    "id": "ian@clausehound.com",
+    "first": "Ian"
+  },
+  {
+    "id": "info@clausehound.com",
+    "first": ""
+  },
+  {
+    "id": "jenny@clausehound.com",
+    "first": "Jenny",
+    "last": "Hui"
+  },
+  {
+    "id": "jordan@clausehound.com",
+    "first": "Jordan",
+    "last": "Campbell"
+  },
+  {
+    "id": "krysta@clausehound.com",
+    "first": "Krysta",
+    "last": "Boutin"
+  },
+  {
+    "id": "margaret@clausehound.com",
+    "first": "Margaret",
+    "last": "Rimek"
+  },
+  {
+    "id": "mifras@clausehound.com",
+    "first": "Mifras"
+  },
+  {
+    "id": "rajah@cobaltcounsel.com",
+    "first": "Rajah",
+    "last": "Lehal",
+    "bio": "Rajah Lehal is Founder and CEO of Clausehound.com.  Rajah is a legal technologist and technology lawyer who is, together with the Clausehound team, capturing and sharing lawyer expertise, building deal negotiation libraries, teaching negotiation in classrooms, and automating negotiation with software.",
+    "image": "profiles/Rajah.jpg",
+    "lawyer": true
+  },
+  {
+    "id": "adam@clausehound.com",
+    "first": "Adam",
+    "last": "Loo",
+    "lawyer": true,
+    "image": "profiles/adam.jpg"
+  },
+  {
+    "id": "richard@clausehound.com",
+    "first": "Richard"
+  },
+  {
+    "id": "josh@clausehound.com",
+    "first": "Joshua",
+    "last": "Koudys",
+    "bio": "As CTO of Clausehound, Josh is constantly looking for ways software can improve our access to the law.",
+    "image": "profiles/josh.png"
+  },
+  {
+    "id": "eashan@clausehound.com",
+    "first": "Eashan",
+    "last": "Karnik"
+  },
+  {
+    "id": "erin@clausehound.com",
+    "first": "Erin",
+    "last": "Adele Krawchuk"
+  },
+  {
+    "id": "irbaz@clausehound.com",
+    "first": "Irbaz",
+    "last": "Wahab"
+  },
+  {
+    "id": "philweiss@clausehound.com",
+    "first": "Phil",
+    "last": "Weiss"
+  },
+  {
+    "id": "natalka@clausehound.com",
+    "first": "Natalka",
+    "last": "Falcomer",
+    "bio": "Natalka is an award winning graduate of Osgoode Hall Law School & Wilfred Laurier University who is deeply committed to increasing access to justice and improving the way the law is practised and delivered.",
+    "image": "profiles/natalka.jpg"
+  },
+  {
+    "id": "evan@clausehound.com",
+    "first": "Evan",
+    "last": "Sinclair"
+  },
+  {
+    "id": "ghancock@ryerson.ca",
+    "first": "Geordie",
+    "last": "Hancock"
+  },
+  {
+    "id": "ethan@clausehound.com",
+    "first": "Ethan",
+    "last": "Pereira"
+  },
+  {
+    "id": "priya@clausehound.com",
+    "first": "Priyanka",
+    "last": "Datta"
+  } 
+ ]
