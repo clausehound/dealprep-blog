@@ -1,8 +1,14 @@
+---
+title: Unlocking Deal Insights from Commercial Redlines
+date: "2023-11-17T22:12:03.284Z"
+description: "A look into the legal tech tools we use for document comparisons"
+---
+
 ***Our Problem***
 
 Comparing documents and document versions is a highly beneficial review activity for lawyers, but one that, over a legal career, incurs many tedious, laborious hours. It can require legal teams to meticulously scour through hundreds of individual files of source/target and redline documents. Even with our tool DealPrep, document comparison is a massive part of our workflow when conducting deal document review for our clients. We've felt the pains of differences in formatting, file type conversions, naming conventions, etc. We also realized how much time our team spends switching between documents and retrieving documents for comparison purposes. Eventually, we decided to come up with a better solution to the traditional redline comparison tools that we could integrate into our DealPrep platform.
 
-This solution has three critical feature requirements as "must-haves'' for us:
+This solution has three critical feature requirements as "must-haves" for us:
 
 (1) Include comparison tool;
 
