@@ -4,11 +4,11 @@ date: "2023-11-17T22:12:03.284Z"
 description: "A look into the legal tech tools we use for document comparisons"
 ---
 
-***Our Problem***
+## Our Problem
 
 Comparing documents and document versions is a highly beneficial review activity for lawyers, but one that, over a legal career, incurs many tedious, laborious hours. It can require legal teams to meticulously scour through hundreds of individual files of source/target and redline documents. Even with our tool DealPrep, document comparison is a massive part of our workflow when conducting deal document review for our clients. We've felt the pains of differences in formatting, file type conversions, naming conventions, etc. We also realized how much time our team spends switching between documents and retrieving documents for comparison purposes. Eventually, we decided to come up with a better solution to the traditional redline comparison tools that we could integrate into our DealPrep platform.
 
-This solution has three critical feature requirements as "must-haves" for us:
+Our solution had four essential requirements:
 
 (1) Include comparison tool;
 
@@ -18,14 +18,11 @@ This solution has three critical feature requirements as "must-haves" for us:
 
 (4) Seamlessly integrates into our existing DealPrep platform.
 
-In this article, we'll outline the steps we took to create this solution, and how it helps our clerks work faster via quick switching of documents, and an interface that allows our team to focus on the clause concepts most critical to our clients.
-
 DealPrep's Compare tool is used by our clerks to quickly compare documents via redline. With easy access to other documents and reference materials, and the ability to hide unedited clauses/sections when comparing documents, the comparison tool speeds up our clerks' deal document workflow by 33%.
 
 ![DPComparisonSC](./DPComparisonSC.png)
 
-
-***Our Tech Challenges***
+## Our Tech Challenges
 
 In order to develop these high quality tools, our software development team worked closely with the clerks to optimize their workflow each step of the way. With DealPrep's power came extra processing requirements, where we had to avoid a clunky-feeling interface while it was calculating large sets of document comparisons. More processor-intensive code was moved out of the main thread, into a separate background thread using a web worker. This allowed big operations to happen without our end-users feeling like the interface was freezing.
 
@@ -40,7 +37,7 @@ Legal documents aren't stored and managed the same as flat text, as what we're d
 
 However, given deal documents are constantly changing, and there's a lot of nuances to be captured, our tech needed to be able to find matches based not only on matching text but matching legal concepts. This is where CobaltAI succeeds as a company: the legal side is working every day with the developers, iterating and understanding the problem we're solving together. The schema we've developed is based on how actual lawyers and law clerks approach contract review. We capture not only those tags, but even the discussion behind them, capturing how the decision to include that clause language was made in every contract it was made in.
 
-***The Tool's Value***
+## A New and Improved User Experience
 
 This new algorithm, combined with our refactoring of the data storage and the transition to WebAssembly programming language, have many new benefits, like running redlines against an entire knowledge library, which can be up to hundreds of documents, with only a few clicks.
 
@@ -48,12 +45,8 @@ Another major benefit to mention is that unlike traditional word processing comp
 
 One interesting benefit of hosting the tool in our existing interface, instead of creating a MS Word add-on or Google Docs add-on, is that our team never needs to change tabs, windows or use any other platform. With all of our precedents and reference materials in one place and the ability to run redlines on any and all of those documents in one view, our team is no longer overwhelmed with organization of files and can now just focus on the review task at hand.
 
-
-![teamsvid](teamsvid.mp4)
-
-
 As an example, we recently used the comparison tool in a project where we had to compare incoming contract documents with a playbook we created for a client. Our interface scanned all the incoming documents, and our comparison tool allowed us to instantly see any new or outlying language in the incoming documents, so we could make edits and alert our client.
 
 Another recent example is when a client needed us to vet a large batch of NDA's based on an NDA template in their procurement tender documents sent to contractors. This led to a large influx of NDA's coming to our client, and instead of laboriously going through each NDA and vetting it, we were able to feed all of the incoming NDA's and the template they were based on into our DealPrep platform. Doing so allowed us to compare the whole batch with the template seamlessly, and we could quickly tell if the batch of agreements matched the original template. The entire process took about twenty minutes, as we simply had to check in our interface if the documents were a match
 
-Alongside these examples, our clerks find value in other unique features such as having hotkeys to switch between documents, allowing for even speedier review times. We believe innovation and innovative problem solving to be one of the cornerstones of our business, and we hope you enjoy reading about our efforts in this regard.
+Our team is truly excited about the strides we've made in simplifying and enhancing the document comparison process. We're always striving to innovate and solve problems creatively. We hope you've enjoyed learning about our journey to make legal document review a smoother experience. If you have any questions or thoughts, feel free to [reach out](https://dealprep.co/#contactAnchor) – we're here to chat!
