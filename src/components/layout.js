@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link } from "gatsby"
+import Logo from "../images/DealPrepLogo.svg"
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -9,7 +10,7 @@ const Layout = ({ location, title, children }) => {
   if (isRootPath) {
     header = (
       <h1 className="main-heading">
-        <Link to="/">{title}</Link>
+        <Link to="/" alt={title}><Logo style={{ marginLeft: "-1.5em", height: "2em" }} /></Link>
       </h1>
     )
   } else {

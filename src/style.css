@@ -52,7 +52,7 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #005b99;
+  --color-primary: rgb(4, 145, 183);
   --color-text: #2e353f;
   --color-text-light: #4f5969;
   --color-heading: #1a202c;
@@ -249,7 +249,7 @@ a:focus {
 }
 
 .global-header {
-  margin-bottom: var(--spacing-12);
+  margin-bottom: var(--spacing-8);
 }
 
 .main-heading {
@@ -282,6 +282,17 @@ a:focus {
   font-family: var(--font-heading);
   text-decoration: none;
   font-size: var(--fontSize-2);
+}
+
+.blurb {
+  display: flex;
+  padding-left: 1em;
+  border-left: 7px dotted var(--color-primary);
+  margin-bottom: var(--spacing-16);
+}
+
+.blurb p {
+  margin-bottom: var(--spacing-0);
 }
 
 .bio {

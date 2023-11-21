@@ -22,7 +22,7 @@ In this article, we'll outline the steps we took to create this solution, and ho
 
 DealPrep's Compare tool is used by our clerks to quickly compare documents via redline. With easy access to other documents and reference materials, and the ability to hide unedited clauses/sections when comparing documents, the comparison tool speeds up our clerks' deal document workflow by 33%.
 
-![DPComparisonSC](https://github.com/clausehound/dealprep-blog/assets/58573689/261c79c4-445f-484b-bed7-d98831d45ce7)
+![DPComparisonSC](./DPComparisonSC.png)
 
 
 ***Our Tech Challenges***
@@ -35,7 +35,7 @@ The final hurdle we faced was with our most computationally expensive code: the 
 
 Legal documents aren't stored and managed the same as flat text, as what we're diffing against isn't just raw text, but identifying changes inside of specific types of clauses. We tag documents by clause concept when ingesting them, which lets us compare multiple documents around the same clause category. This is a key value of our platform, so we needed to ensure that those tags are preserved when interacting with them in the comparison interface. This meant most of the diffing algorithms needed to be written from the ground-up. To do so, we implemented logic into our algorithm that created a list of all the clauses in one contract, and all the clauses in a second contract. Let's call them "Contract A" and "Contract B". In order to find out if the text is a match, normally you would just compare one section from "Contract A" with one section from "Contract B" and if they don't match then you move on.
 
-![ArticleIllustrationV2](https://github.com/clausehound/dealprep-blog/assets/58573689/9723ec91-7857-4266-9ccf-215885082f78)
+![ArticleIllustrationV2](./ArticleIllustrationV2.png)
 
 
 However, given deal documents are constantly changing, and there's a lot of nuances to be captured, our tech needed to be able to find matches based not only on matching text but matching legal concepts. This is where CobaltAI succeeds as a company: the legal side is working every day with the developers, iterating and understanding the problem we're solving together. The schema we've developed is based on how actual lawyers and law clerks approach contract review. We capture not only those tags, but even the discussion behind them, capturing how the decision to include that clause language was made in every contract it was made in.
@@ -49,7 +49,7 @@ Another major benefit to mention is that unlike traditional word processing comp
 One interesting benefit of hosting the tool in our existing interface, instead of creating a MS Word add-on or Google Docs add-on, is that our team never needs to change tabs, windows or use any other platform. With all of our precedents and reference materials in one place and the ability to run redlines on any and all of those documents in one view, our team is no longer overwhelmed with organization of files and can now just focus on the review task at hand.
 
 
-https://github.com/clausehound/dealprep-blog/assets/58573689/200a5cd1-c42b-41b3-9690-b57d99d72d23
+![teamsvid](teamsvid.mp4)
 
 
 As an example, we recently used the comparison tool in a project where we had to compare incoming contract documents with a playbook we created for a client. Our interface scanned all the incoming documents, and our comparison tool allowed us to instantly see any new or outlying language in the incoming documents, so we could make edits and alert our client.
