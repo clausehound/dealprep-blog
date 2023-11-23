@@ -1,7 +1,7 @@
 ---
 title: Unlocking Deal Insights from Commercial Redlines
 date: "2023-11-17T22:12:03.284Z"
-description: "A look into the legal tech tools we use for document comparisons"
+description: "Working to make a *DIFF*-erence"
 ---
 
 ## Our Problem
