@@ -4,9 +4,9 @@ date: "2016-03-04T22:12:03.284Z"
 description: "Our founder recalls his experience with legal tech from the start of his career until now."
 ---
 
-“How has legal technology affected you?” This is the first perspective in a three part series.
+## “How has legal technology affected you?” This is the first perspective in a three part series.
 
-## It was 1982 - some of you were not born yet in the year I began my legal career as an Assistant Professor at Western University. 
+It was 1982 - some of you were not born yet in the year I began my legal career as an Assistant Professor at Western University. 
 
 You will likely have difficulty imagining that all legal research was done manually with books and loose-leaf research services, and that proximity to a physical law library was essential. One law librarian at Western told me a few years ago that they think there are law students who graduate now without ever having set foot in the library. Imagine that!
 
