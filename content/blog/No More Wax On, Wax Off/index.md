@@ -30,7 +30,7 @@ Faster training also means potential integration of tasks that were once outsour
 ## More numbers:
 ### With practice, 15 minutes is the time that it takes to read a legal case. It takes an additional 45 minutes to create a briefing of the relevant cases to share with your senior counsel. (Longer if you’re not sure what you’re looking for.)
 
-### **Cloud-based research tools like *Blue J Legal* can now analyze thousands of legal cases in a single request, and some tools will prepare a complete legal memorandum.**
+### **Cloud-based research tools like [Blue J Legal][2] can now analyze thousands of legal cases in a single request, and some tools will prepare a complete legal memorandum.**
 Customers performing their own research? This is not ideal for the up-and-coming lawyers who benefit by reading all of these judgements. A junior lawyer learns a lot of skills in researching cases, including:
 
 * asking the client the right questions,
@@ -82,3 +82,4 @@ Although AI is disrupting the legal industry and will be a force for change, law
 A machine may be faster and smarter than you, but at the end of the day, only you can relate to your human client’s needs!
 
 [1]: https://www.bigdata-toronto.com/en "Big Data Toronto"
+[2]: https://www.bluej.com/ "Blue J Legal"
