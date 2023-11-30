@@ -6,7 +6,9 @@ description: "Our founder recalls his experience with legal tech from the start 
 
 “How has legal technology affected you?” This is the first perspective in a three part series.
 
-## It was 1982 - some of you were not born yet in the year I began my legal career as an Assistant Professor at Western University. You will likely have difficulty imagining that all legal research was done manually with books and loose-leaf research services, and that proximity to a physical law library was essential. One law librarian at Western told me a few years ago that they think there are law students who graduate now without ever having set foot in the library. Imagine that!
+## It was 1982 - some of you were not born yet in the year I began my legal career as an Assistant Professor at Western University. 
+
+You will likely have difficulty imagining that all legal research was done manually with books and loose-leaf research services, and that proximity to a physical law library was essential. One law librarian at Western told me a few years ago that they think there are law students who graduate now without ever having set foot in the library. Imagine that!
 
 You would also have difficulty imagining that all documents were typed manually, or photocopied and cut and pasted together and re-photocopied, and that we used gallons of ‘white-out’ in the drafting process. Document comparison was a nightmare. Everything was done manually - no blackline comparisons with 5 clicks of a mouse! In 1983 I was only the second Faculty member to own a personal computer. We had to boot up manually in DOS, and insert the floppy drive - and there was no automatic ‘save’ to backup! Yes, going through 20-page documents on this was a nightmare.
 
