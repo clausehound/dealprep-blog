@@ -1,3 +1,9 @@
+---
+title: The New Age Articling Student – Using Legal Technology to Learn and Draft More Efficiently
+date: "2016-03-06T22:12:03.284Z"
+description: "Our founder recalls his experience with legal tech from the start of his career until now. Part 3."
+---
+
 ## “How has legal technology affected you?” This is the third perspective in a three part series.
 
 A few days into my articling term I received my first contract to draft - **a commercial lease agreement.** I had only seen this type of agreement a few times before. But I was full of ambition to learn the ins and outs of the agreement, so I began by doing what every lawyer does first and began to look at previous commercial lease precedents that my firm had, and **within half hour I had my whole desk covered in different leases, it didn’t look pretty!** There were stacks of precedents I had to read through!
