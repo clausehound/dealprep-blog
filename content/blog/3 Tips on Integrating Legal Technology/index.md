@@ -1,3 +1,9 @@
+----------------------------------------------------
+title: 3 Tips on Integrating Legal Technology
+date: "2023-11-30T22:12:03.284Z"
+description: "Advice from our founder on integrating legal tech."
+----------------------------------------------------
+
 # ***3 Tips on Integrating Legal Technology***
 
 **Note:** The content of this article was originally presented at the Ontario Bar Association’s TechXpo, by Clausehound CEO & Founder, Rajah Lehal.
