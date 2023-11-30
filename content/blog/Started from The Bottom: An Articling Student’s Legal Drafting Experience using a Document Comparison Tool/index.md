@@ -1,7 +1,7 @@
 ---
-title: Started from The Bottom: An Articling Student’s Legal Drafting Experience using a Document Comparison Tool
-date: "2016-03-05T22:12:03.284Z"
-description: "Advice from our founder on integrating legal tech. Part 2."
+title: From 1982 to Now - Watching the Evolution of Legal Technology
+date: "2016-03-04T22:12:03.284Z"
+description: "Our founder recalls his experience with legal tech from the start of his career until now."
 ---
 
 ## “How has legal technology affected you?” This is the second perspective in a three part series.
