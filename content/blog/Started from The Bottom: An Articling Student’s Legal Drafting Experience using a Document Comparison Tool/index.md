@@ -1,5 +1,5 @@
 ---
-title: Started from The Bottom: An Articling Student’s Legal Drafting Experience using a Document Comparison Tool
+title: Started from The Bottom - An Articling Student’s Legal Drafting Experience using a Document Comparison Tool
 date: "2016-03-05T22:12:03.284Z"
 description: "Our founder recalls his experience with legal tech from the start of his career until now. Part 2."
 ---
