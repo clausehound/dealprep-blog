@@ -1,7 +1,7 @@
 ---
 title: From 1982 to Now - Watching the Evolution of Legal Technology
 date: "2016-03-04T22:12:03.284Z"
-description: "Our founder recalls his experience with legal tech from the start of his career until now."
+description: "Our founder recalls his experience with legal tech from the start of his career until now. Part 1."
 ---
 
 ## “How has legal technology affected you?” This is the first perspective in a three part series.
