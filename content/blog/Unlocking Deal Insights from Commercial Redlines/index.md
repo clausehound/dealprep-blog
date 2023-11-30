@@ -1,7 +1,7 @@
 ---
 title: Unlocking Deal Insights from Commercial Redlines
 date: "2023-11-17T22:12:03.284Z"
-description: "Working to make a *DIFF*-erence"
+description: "Working to make a *DIFF*-erence - Creating a new document commparison tool."
 ---
 
 ## Our Problem
