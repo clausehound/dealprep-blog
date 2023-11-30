@@ -1,3 +1,9 @@
+---
+title: No More Wax On, Wax Off
+date: "2017-06-26T22:12:03.284Z"
+description: "Our founder discusses students and mentors, AI, and differentiating yourself in an increasingly tech focused world."
+---
+
 I was recently asked to speak at [Big Data Toronto][1] on the topic of machine learning and AI, and I decided to speak to a question on my mind that I have been struggling with: what are the implications of the replacement of junior staff in an organization by software-based solutions? To be more specific, if machine-learning and AI are doing the easy or tedious work reserved for untrained hires—and the same tedious tasks are an important building block for up-and-coming team members—then how do we make sure that in the future, our juniors will receive proper training alongside this new technology? In other words, what are the implications of collapsing a category of work that fosters on-the-job training?
 
 As the operator of a business, there’s nothing more pleasing for me than an efficient, consistent system that saves time.
