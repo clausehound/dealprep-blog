@@ -1,3 +1,9 @@
+---
+title: Automating Contract Review For A Slow Moving Industry
+date: "2020-08-31T22:12:03.284Z"
+description: "Our founder highlights the importance of legal technology, especially in the world of contracts."
+---
+
 Every day we’re hearing more and more about how **artificial intelligence (AI) solutions** are going to rock the business world by “automating this”, “speeding up that”, “cutting corners” “cutting costs”, etc. While we have absolutely no doubt that these new solutions have the potential to disrupt commercial industries, the legal industry is one that we’re naturally curious (and maybe a bit skeptical) about as from our location in the depths of a legal technology AI/ML “engine room”. In the business/consulting/ manufacturing/etc. sphere, AI is becoming more and more commonplace with major corporations and startups alike not only adopting AI solutions but also creating solutions in-house. Safe to say that AI’s future in these realms is set in stone.
 
 The legal world has been much slower to accept these types of technologies and process solutions. In a Forbes article, titled AI Will Transform The Field of Law, Rob Toews talks about the different ways AI can be used to simplify and expedite legal tasks. The article highlights areas such as Contract Review, Contract Analytics, Litigation Prediction, and Legal Research as areas that are prime for AI integration, and some of the major tech players that are trying to disrupt those areas.
