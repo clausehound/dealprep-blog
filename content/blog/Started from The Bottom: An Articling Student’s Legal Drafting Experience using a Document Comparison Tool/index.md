@@ -28,7 +28,7 @@ The high-demand articling term which all law students love to hate is preparatio
 
 ## By utilizing legal software tools, the process of drafting contracts can be vastly sped up.
 
-As I come close to the end of my articling term, I have gotten familiar with understanding the background of the legal documents I draft on a daily basis, with the help of online legal drafting and research tools. Piloting **legal technology**, such as Clausehound, has taken my articling experience one-step further by maximizing my understanding of various agreements’ frameworks and the importance of variant language.
+As I come close to the end of my articling term, I have gotten familiar with understanding the background of the legal documents I draft on a daily basis, with the help of online legal drafting and research tools. Piloting **legal technology,** such as Clausehound, has taken my articling experience one-step further by maximizing my understanding of various agreements’ frameworks and the importance of variant language.
 
 For example, I often work on **‘parsing’ or ‘mapping’ non-disclosure agreements** in order to determine gaps missing from a client’s standard non-disclosure agreement. Generally, the client wants to know what is missing from their agreement and why it’s important to include. At the click of a button, Clausehound can:
 
