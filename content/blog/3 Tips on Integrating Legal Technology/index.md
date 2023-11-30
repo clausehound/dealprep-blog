@@ -1,6 +1,6 @@
 ---
 title: 3 Tips on Integrating Legal Technology
-date: "2023-11-30T22:12:03.284Z"
+date: "2021-09-14T22:12:03.284Z"
 description: "Advice from our founder on integrating legal tech."
 ---
 
