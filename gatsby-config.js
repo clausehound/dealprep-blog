@@ -14,7 +14,7 @@ module.exports = {
       name: `Joshua Koudys`,
       summary: `CTO. Codes legal tech.`,
     },
-    description: `The blog of DealPrep. We discuss issues around contract law and negotiations, and how our tech can help.`,
+    description: `Articles and insights from the DealPrep team focused on issues around contract law and negotiations, and how our tech can help.`,
     siteUrl: `https://dealprep.co`
   },
   plugins: [
