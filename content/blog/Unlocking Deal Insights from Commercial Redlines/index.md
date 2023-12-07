@@ -1,5 +1,6 @@
 ---
 title: Unlocking Deal Insights from Commercial Redlines
+author: Owen Jackson
 date: "2023-11-17T22:12:03.284Z"
 description: "Working to make a *DIFF*-erence."
 ---
