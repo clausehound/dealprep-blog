@@ -40,17 +40,14 @@ However, given deal documents are constantly changing, and there's a lot of nuan
 
 ## A New and Improved User Experience
 
-This new algorithm, combined with our refactoring of the data storage and the transition to WebAssembly programming language, have many new benefits, like running redlines against an entire knowledge library, which can be up to hundreds of documents, with only a few clicks.
+This new algorithm, combined with our refactoring of the data storage and the transition to WebAssembly programming language has many new benefits. Some of these include our ability to run redlines against an entire document library, which can be up to hundreds of documents.
+Another major benefit to mention is that unlike traditional word processing comparison tools, our comparison tool offers the ability to hide unchanged sections. Our team often works on documents that are 30+ pages in length, containing multiple appendices or addendums, and round after round of negotiation comment threads and redlines. When working at high velocity and with strict time allocations for each matter, our team benefits greatly from the ability to hide all unchanged clauses/sections so that we may focus on only what's still in negotiation. You can check out these new tools in action in the video below:
 
-
-
-[![TitleScreenFinish.png](./TitleScreenFinish.png)](https://vimeo.com/886962695?share=copy)
+[![NewDemoTitle.png](./NewDemoTitle.png)](https://vimeo.com/886962695?share=copy)
 ### <div align="center">[Click for Video Demo](https://vimeo.com/886962695?share=copy)<div align="center">
 &nbsp; 
 
-Another major benefit to mention is that unlike traditional word processing comparison tools, our comparison tool offers the ability to hide unchanged sections. Our team often works on documents that are 30+ pages in length, containing multiple appendices or addendums, and round after round of negotiation comment threads and redlines. When working at high velocity and with strict time allocations for each matter, our team benefits greatly from the ability to hide all unchanged clauses/sections so that we may focus on only what's still in negotiation.
-
-One interesting benefit of hosting the tool in our existing interface, instead of creating a MS Word add-on or Google Docs add-on, is that our team never needs to change tabs, windows or use any other platform. With all of our precedents and reference materials in one place and the ability to run redlines on any and all of those documents in one view, our team is no longer overwhelmed with organization of files and can now just focus on the review task at hand.
+An interesting benefit to note from our tool being built in our existing interace, instead of creating a MS Word add-on or Google Docs add-on, is that our team never needs to change tabs, windows or use any other platform. With all of our precedents and reference materials in one place and the ability to run redlines on any and all of those documents in one view, our team is no longer overwhelmed with organization of files and can now just focus on the review task at hand.
 
 As an example, we recently used the comparison tool in a project where we had to compare incoming contract documents with a playbook we created for a client. Our interface scanned all the incoming documents, and our comparison tool allowed us to instantly see any new or outlying language in the incoming documents, so we could make edits and alert our client.
 
