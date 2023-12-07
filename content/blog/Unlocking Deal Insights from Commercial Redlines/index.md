@@ -45,8 +45,8 @@ Another major benefit to mention is that unlike traditional word processing comp
 
 Our team often works on documents that are 30+ pages in length, containing multiple appendices or addendums, and round after round of negotiation comment threads and redlines. When working at high velocity and with strict time allocations for each matter, our team benefits greatly from the ability to hide all unchanged clauses/sections so that we may focus on only what's still in negotiation. You can check out these new tools in action in the video below:
 
-[![NewDemoTitle.png](./NewDemoTitle.png)](https://vimeo.com/886962695?share=copy)
-### <div align="center">[Click for Video Demo](https://vimeo.com/886962695?share=copy)<div align="center">
+[![NewDemoTitle.png](./NewDemoTitle.png)](https://vimeo.com/892431367?share=copy)
+### <div align="center">[Click for Video Demo](https://vimeo.com/892431367?share=copy)<div align="center">
 &nbsp; 
 
 An interesting benefit to note from our tool being built in our existing interace, instead of creating a MS Word add-on or Google Docs add-on, is that our team never needs to change tabs, windows or use any other platform. With all of our precedents and reference materials in one place and the ability to run redlines on any and all of those documents in one view, our team is no longer overwhelmed with organization of files and can now just focus on the review task at hand.
