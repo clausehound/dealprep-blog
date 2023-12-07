@@ -42,6 +42,8 @@ However, given deal documents are constantly changing, and there's a lot of nuan
 
 This new algorithm, combined with our refactoring of the data storage and the transition to WebAssembly programming language, have many new benefits, like running redlines against an entire knowledge library, which can be up to hundreds of documents, with only a few clicks.
 
+[![TitleScreenFinish](https://github.com/clausehound/dealprep-blog/assets/151564274/7c818d3f-1e6e-4712-b2d5-3f0677127617)(https://vimeo.com/886962695?share=copy) "Redline Automation for Busy Deal Teams")
+
 Another major benefit to mention is that unlike traditional word processing comparison tools, our comparison tool offers the ability to hide unchanged sections. Our team often works on documents that are 30+ pages in length, containing multiple appendices or addendums, and round after round of negotiation comment threads and redlines. When working at high velocity and with strict time allocations for each matter, our team benefits greatly from the ability to hide all unchanged clauses/sections so that we may focus on only what's still in negotiation.
 
 One interesting benefit of hosting the tool in our existing interface, instead of creating a MS Word add-on or Google Docs add-on, is that our team never needs to change tabs, windows or use any other platform. With all of our precedents and reference materials in one place and the ability to run redlines on any and all of those documents in one view, our team is no longer overwhelmed with organization of files and can now just focus on the review task at hand.
