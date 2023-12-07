@@ -40,7 +40,7 @@ However, given deal documents are constantly changing, and there's a lot of nuan
 
 ## A New and Improved User Experience
 
-This new algorithm - combined with our refactoring of the data storage, and the transition to the WebAssembly programming language - has many new benefits. Some of these include our ability to run redlines against an entire document library, which can be up to hundreds of documents.
+This new algorithm - combined with our refactoring of the data storage, and transition to the WebAssembly programming language - has many new benefits. Some of these include our ability to run redlines against an entire document library, which can be up to hundreds of documents.
 Another major benefit to mention is that unlike traditional word processing comparison tools, our comparison tool offers the ability to hide unchanged sections. Our team often works on documents that are 30+ pages in length, containing multiple appendices or addendums, and round after round of negotiation comment threads and redlines. When working at high velocity and with strict time allocations for each matter, our team benefits greatly from the ability to hide all unchanged clauses/sections so that we may focus on only what's still in negotiation. You can check out these new tools in action in the video below:
 
 [![NewDemoTitle.png](./NewDemoTitle.png)](https://vimeo.com/886962695?share=copy)
