@@ -44,7 +44,7 @@ This new algorithm, combined with our refactoring of the data storage and the tr
 
 
 
-[![TitleScreenFinish](https://github.com/clausehound/dealprep-blog/assets/151564274/7c818d3f-1e6e-4712-b2d5-3f0677127617)](https://vimeo.com/886962695?share=copy)
+[![TitleScreenFinish.png](./TitleScreenFinish.png)](https://vimeo.com/886962695?share=copy)
 ### <div align="center">[Click for Video Demo](https://vimeo.com/886962695?share=copy)<div align="center">
 &nbsp; 
 
