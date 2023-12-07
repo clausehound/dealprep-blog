@@ -1,5 +1,6 @@
 ---
 title: Automating Contract Review For A Slow Moving Industry
+author: Rajah Lehal
 date: "2020-08-31T22:12:03.284Z"
 description: "Our founder highlights the importance of legal technology, especially in the world of contracts."
 ---
