@@ -11,8 +11,8 @@ module.exports = {
   siteMetadata: {
     title: `DealPrep Blog`,
     author: {
-      name: `Joshua Koudys`,
-      summary: `CTO. Codes legal tech.`,
+      name: ``,
+      summary: ``,
     },
     description: `Articles and insights from the DealPrep team focused on issues around contract law and negotiations, and how our tech can help.`,
     siteUrl: `https://dealprep.co`
