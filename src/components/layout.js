@@ -1,6 +1,7 @@
 import * as React from "react"
 import { Link } from "gatsby"
 import Logo from "../images/DealPrepLogo.svg"
+import CobaltLogo from "../images/CobaltLogo.svg"
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -9,9 +10,12 @@ const Layout = ({ location, title, children }) => {
 
   if (isRootPath) {
     header = (
-      <h1 className="main-heading">
-        <Link to="/" alt={title}><Logo style={{ height: "2em" }} /></Link>
-      </h1>
+      <div>
+        <h1 className="main-heading">
+          <Link to="/" alt={title}><Logo style={{ height: "2em" }} /></Link>
+          <Link to="https://cobaltcounsel.com"><CobaltLogo style={{ height: "2em", width: "10rem" }} /></Link>
+        </h1>
+      </div>
     )
   } else {
     header = (
