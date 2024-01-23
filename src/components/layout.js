@@ -13,7 +13,6 @@ const Layout = ({ location, title, children }) => {
       <div>
         <h1 className="main-heading">
           <Link to="/" alt={title}><Logo style={{ height: "2em" }} /></Link>
-          <Link to="https://cobaltcounsel.com"><CobaltLogo style={{ height: "2em", width: "10rem" }} /></Link>
         </h1>
       </div>
     )
@@ -32,7 +31,9 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, Built by
         {` `}
-        <a href="https://www.cobaltcounsel.com">Cobalt</a>
+        <a href="https://www.cobaltcounsel.com">
+          <CobaltLogo style={{ height: "1.25em", width: "7.5rem", verticalAlign: "top" }} alt="Cobalt AI Logo" />
+        </a>
       </footer>
     </div>
   )
