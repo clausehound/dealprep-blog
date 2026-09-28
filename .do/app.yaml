@@ -10,6 +10,9 @@ domains:
   - domain: www.dealprep.co
     type: ALIAS
     zone: dealprep.co
+  - domain: blog.dealprep.co
+    type: ALIAS
+    zone: dealprep.co
 static_sites:
   - name: site
     github:
