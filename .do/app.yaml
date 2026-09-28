@@ -1,6 +1,7 @@
 # DigitalOcean App Platform spec. Deploys on every push to main.
 # Apply: doctl apps create --spec .do/app.yaml  (or: doctl apps update <id> --spec .do/app.yaml)
 # Requires dealprep.co nameservers pointed at ns{1,2,3}.digitalocean.com
+# dealprep.co + www redirect to the DealPrep product page; blog.dealprep.co serves this blog.
 name: dealprep-co
 region: tor
 domains:
@@ -13,6 +14,31 @@ domains:
   - domain: blog.dealprep.co
     type: ALIAS
     zone: dealprep.co
+ingress:
+  rules:
+    - match:
+        authority:
+          exact: dealprep.co
+        path:
+          prefix: /
+      redirect:
+        authority: www.cobaltcounsel.com
+        uri: /DealPrep/
+        redirect_code: 301
+    - match:
+        authority:
+          exact: www.dealprep.co
+        path:
+          prefix: /
+      redirect:
+        authority: www.cobaltcounsel.com
+        uri: /DealPrep/
+        redirect_code: 301
+    - match:
+        path:
+          prefix: /
+      component:
+        name: site
 static_sites:
   - name: site
     github:
