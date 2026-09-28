@@ -1,5 +1,5 @@
 # Build image for DigitalOcean App Platform (static site; output_dir /app/public)
-FROM node:18
+FROM node:22
 WORKDIR /app
 COPY package.json yarn.lock ./
 RUN yarn install --frozen-lockfile
