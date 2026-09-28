@@ -15,7 +15,7 @@ module.exports = {
       summary: ``,
     },
     description: `Articles and insights from the DealPrep team focused on issues around contract law and negotiations, and how our tech can help.`,
-    siteUrl: `https://dealprep.co`
+    siteUrl: `https://blog.dealprep.co`
   },
   plugins: [
     `gatsby-plugin-image`,
